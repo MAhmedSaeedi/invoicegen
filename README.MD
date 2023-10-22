@@ -1,0 +1,1 @@
+An open-source React Native project designed for Android and potentially iOS in the future. Its primary purpose is to help users monitor their earnings and utilize templates to create and email invoices. Additional features are planned for future updates.
